@@ -1,0 +1,16 @@
+{
+  "name": "Test collection",
+  "symbol": "TEST",
+  "description": "These NFTs should not exist",
+  "image": "https://github.com/muckee/sol-cmv3-dummy-data/blob/43a8b0b3bd88ed32238151632b01823888fc2e2e/Tastes%20Good.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/muckee/sol-cmv3-dummy-data/blob/43a8b0b3bd88ed32238151632b01823888fc2e2e/Tastes%20Good.png",
+        "type": "image/png"
+      }
+    ],
+    "category": null
+  }
+}
